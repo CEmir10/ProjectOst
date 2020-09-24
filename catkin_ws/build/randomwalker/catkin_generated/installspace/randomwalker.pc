@@ -1,0 +1,8 @@
+prefix=/home/ost/catkin_ws/install
+
+Name: randomwalker
+Description: Description of randomwalker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

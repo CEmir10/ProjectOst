@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_ost__36843: 'http://ost:36843/'}
+rosversion: '1.14.5
+
+  '
+run_id: c09f85a4-fe67-11ea-83c6-08002729c73f
+turtlesim: {background_b: 150, background_g: 86, background_r: 150}

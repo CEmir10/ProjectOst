@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ost/workspace/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/ost/workspace/catkin/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+test_package
+-DCATKIN_DEVEL_PREFIX=/home/ost/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ost/test_ws/install -G Unix Makefiles
