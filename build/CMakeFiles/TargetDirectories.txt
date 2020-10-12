@@ -1,0 +1,7 @@
+/home/ost/projects/classes/build/CMakeFiles/install/strip.dir
+/home/ost/projects/classes/build/CMakeFiles/edit_cache.dir
+/home/ost/projects/classes/build/CMakeFiles/classes.dir
+/home/ost/projects/classes/build/CMakeFiles/rebuild_cache.dir
+/home/ost/projects/classes/build/CMakeFiles/list_install_components.dir
+/home/ost/projects/classes/build/CMakeFiles/install/local.dir
+/home/ost/projects/classes/build/CMakeFiles/install.dir
