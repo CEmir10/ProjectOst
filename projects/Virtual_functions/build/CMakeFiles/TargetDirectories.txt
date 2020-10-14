@@ -1,0 +1,7 @@
+/home/ost/projects/Virtual_functions/build/CMakeFiles/install/strip.dir
+/home/ost/projects/Virtual_functions/build/CMakeFiles/edit_cache.dir
+/home/ost/projects/Virtual_functions/build/CMakeFiles/virtual_functions.dir
+/home/ost/projects/Virtual_functions/build/CMakeFiles/install.dir
+/home/ost/projects/Virtual_functions/build/CMakeFiles/rebuild_cache.dir
+/home/ost/projects/Virtual_functions/build/CMakeFiles/list_install_components.dir
+/home/ost/projects/Virtual_functions/build/CMakeFiles/install/local.dir
